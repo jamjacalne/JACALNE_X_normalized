@@ -1,4 +1,3 @@
-Jamila Rose M. Jacalne
 ### ECE2112 | EXPERIMENT 2
 **I. Intended Learning Outcomes:**
 1. To identify the codes and functions incorporated in the Numpy library
